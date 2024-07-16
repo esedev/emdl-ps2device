@@ -1,0 +1,12 @@
+[package]
+name = "emdl-ps2device"
+version = "0.1.0"
+edition = "2021"
+authors = ["Serg E <eserg.dev@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "A driver for PS2 dualshock gamepad."
+categories = ["embedded", "hardware-support", "no-std"]
+keywords = ["arduino", "playstation", "gamepad", "wireless"]
+
+[dependencies]
+embedded-hal = "1.0.0"
