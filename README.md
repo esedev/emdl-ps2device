@@ -6,7 +6,8 @@ In theory, the controller should operate via an SPI bus. But I couldn't get it t
 The controller operates at a frequency of 250 kHz
 
 ## Examples
-- [Arduino](todo)
+- [Arduino](https://github.com/esedev/arduino-demo-emdl)
+- [Raspberry PI](https://github.com/esedev/rpi-demo-emdl)
 
 ## References
 - [Interfacing a PS2 (PlayStation 2) Controller](https://store.curiousinventor.com/guides/PS2)
